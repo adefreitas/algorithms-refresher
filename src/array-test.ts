@@ -76,7 +76,6 @@ tests.forEach(t => {
 
     console.log(t, time(push_arr(1000)));
 });
-
 console.log("pop");
 tests.forEach(t => {
     a.length = 0;
